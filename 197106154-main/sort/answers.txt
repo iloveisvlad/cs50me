@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: well on nearly sorted data but was significantly slower on reversed data, characteristic of bubble sort.
+
+sort2 uses: Merge sort
+
+How do you know?: efficiently on all datasets, including reversed and random, aligning with O(n log n) complexity of merge sort.
+
+sort3 uses: Selection sort
+
+How do you know?: slow on all datasets, indicating an O(n^2) sorting complexity typical of selection sort.
